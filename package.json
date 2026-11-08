@@ -1,0 +1,25 @@
+{
+  "name": "qa-ai-playwright-portfolio",
+  "version": "1.0.0",
+  "description": "A test automation project using Playwright and TypeScript.",
+  "scripts": {
+    "test": "playwright test",
+    "test:report": "playwright show-report"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PotochniakBohdan/qa-ai-playwright-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/PotochniakBohdan/qa-ai-playwright-portfolio/issues"
+  },
+  "homepage": "https://github.com/PotochniakBohdan/qa-ai-playwright-portfolio#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.0",
+    "@types/node": "^26.6.6"
+  }
+}
